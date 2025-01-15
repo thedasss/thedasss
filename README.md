@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Thedas!</h1>
-<h3 align="center">Data Science Undergraduate.</h3>
+<h3 align="center">nformation Technology Undergraduate.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thedasss&label=Profile%20views&color=0e75b6&style=flat" alt="thedasss" /> </p>
 
