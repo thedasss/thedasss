@@ -5,7 +5,7 @@
 # 👋 Hi there, I am Thedas Silva...
 
 I'm an **Information Technology Undergraduate** with a passion for **Python development, web scraping, automation, and testing**.  
-I enjoy solving problems and leading teams, currently working as **Associate Production @ InnoData Lanka** and also as a **Freelance Team Lead**.  
+I enjoy solving problems and leading teams, currently working as **Python Developer @ InnoData Lanka** and also as a **Freelance Team Lead**.  
 
 🔧 Currently learning and exploring **Java, Python, and Dart**, while building ML-focused projects.  
 
